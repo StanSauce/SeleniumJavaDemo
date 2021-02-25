@@ -34,7 +34,7 @@ public class WebDemoPage {
     private WebElement commentsTextAreaInput;
 
     public WebDriver driver;
-    public static String url = "https://www.saucedemo.com/";
+    public static String url = "https://www.saucedemo.com/v1/";
 
     public static WebDemoPage visitPage(WebDriver driver) {
         WebDemoPage page = new WebDemoPage(driver);
