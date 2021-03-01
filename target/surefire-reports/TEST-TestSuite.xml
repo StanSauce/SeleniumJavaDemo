@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="37" failures="0" name="TestSuite" time="910.503" errors="0" skipped="1">
+<testsuite tests="37" failures="0" name="TestSuite" time="1,752.828" errors="0" skipped="1">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib"/>
@@ -64,43 +64,43 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="23.899"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="25.492"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="25.615"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="25.705"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="26.486"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="27.608"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="27.85"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="28.226"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="31.223"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLinux" time="33.7">
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="24.283"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="25.883"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="26.434"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="27.791"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="73.237"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="73.298"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="74.634"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="78.91"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="Login" time="80.127"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLinux" time="80.5">
     <skipped/>
   </testcase>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="15.744"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="15.762"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="19.952"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="21.801"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="22.32"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="23.04"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="23.88"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="25.261"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="31.364"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="23.869"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="25.137"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="25.583"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="25.76"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="27.322"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="28.948"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="29.278"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="30.483"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="32.366"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="16.615"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="17.002"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="19.242"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="21.04"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="21.258"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="22.159"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="22.162"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="23.201"/>
-  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="24.15"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="20.435"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="21.322"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="23.303"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="24.38"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="33.114"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="34.341"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="35.979"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="36.899"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginLockedoutUser" time="38.105"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="24.146"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="26.985"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="27.247"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="29.584"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="70.623"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="71.161"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="71.327"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="77.354"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginPerfGlitchUser" time="79.181"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="21.888"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="22.932"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="23.103"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="23.446"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="67.439"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="68.127"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="69.613"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="70.017"/>
+  <testcase classname="com.DemoTest.Tests.WebDemoTest" name="LoginProblemUser" time="75.68"/>
 </testsuite>
